@@ -50,6 +50,10 @@ body {
   font-weight: 600;
   font-size: 15px;
   padding: 18px 0px;
+  transition: 500ms;
+}
+.question:hover{
+  color: hsl(293, 89%, 40%);
 }
 .answer {
   width: 100%;
