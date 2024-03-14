@@ -54,6 +54,7 @@ body {
 }
 .question:hover{
   color: hsl(293, 89%, 40%);
+  cursor: auto;
 }
 .answer {
   width: 100%;
